@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:14:04
 MAINTAINER Docker Education Team <tester@docker.com>
 
 RUN apt-get update
